@@ -5,7 +5,7 @@
 1. git clone https://github.com/xMarKun/wss-mustang-online.git
 2. cd wss-mustang-online
 3. npm i
-4. npm run dev
+4. npm run start
 
 ## 注意点
 
