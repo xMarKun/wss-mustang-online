@@ -2,8 +2,10 @@
 
 ## 使い方
 
-1. npm i
-2. npm run dev
+1. git clone https://github.com/xMarKun/wss-mustang-online.git
+2. cd wss-mustang-online
+3. npm i
+4. npm run dev
 
 ## 注意点
 
